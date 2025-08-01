@@ -1,0 +1,26 @@
+.contact-section {
+    padding: 60px 0;
+  }
+  
+  .divider {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin-bottom: 30px;
+  }
+  
+  .divider .line {
+    flex: 1;
+    height: 1px;
+    background-color: #000;
+    margin: 0 10px;
+  }
+  
+  .divider i {
+    color: #000;
+  }
+  
+  input::placeholder {
+   color: #aaa;
+  }
+  

@@ -1,0 +1,35 @@
+.home {
+    background-color: #1abc9c;
+    padding: 100px 0;
+    color: white;
+  }
+  
+  .site-title {
+    font-size: 2rem;
+    font-weight: bold;
+  }
+  
+  .divider {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin: 20px 0;
+  }
+  
+  .divider .line {
+    width: 60px;
+    height: 2px;
+    background-color: white;
+    margin: 0 10px;
+  }
+  
+  .divider i {
+    color: white;
+  }
+  
+  .subtitle {
+    font-size: 1.1rem;
+  }
+  .row{
+    background-color: #1abc9c;
+  }
